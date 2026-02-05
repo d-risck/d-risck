@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil! Sou estudante do último ano de Ciência da Computaçã
 ## 💻 Habilidades Técnicas
 
 ### Linguagens e Frameworks
-* **Linguagens:** Java, Python, C# e C.
+* **Linguagens:** Python, Java, C# e C.
 * **Game Dev:** GML (GameMaker Language).
 * **Web:** HTML5, CSS3 e JavaScript.
 * **Estudando:** FastAPI e integração de APIs com Python.
